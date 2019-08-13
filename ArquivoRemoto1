@@ -1,4 +1,8 @@
 Primeira linha master remote
 Segunda linha master remote
 terceira linha master remote
+<<<<<<< HEAD
 quarta linha master local
+=======
+Quinta linha master remote
+>>>>>>> 54118520b6bef7ffd1c0df1b889919f928d4c23c
